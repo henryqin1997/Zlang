@@ -30,6 +30,9 @@ Then the program run two block1 in parallel (maximizing use of cpu core), and in
 
 ## Components needed (Unfinished)
 Interpreter
+
 Marshaller
+
 Scheduler
+
 Linker
