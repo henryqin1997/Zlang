@@ -29,12 +29,11 @@ run:block2
 Then the program run two block1 in parallel (maximizing use of cpu core), and in block1 run each part of code in order, with later one's input specified by argument, from stdin or previous output, and output to specified place (file or stdout).
 
 ## Components needed (Unfinished)
-***
-Interpreter
+
+**Interpreter
 
 Marshaller
 
 Scheduler
 
-Linker
-***
+Linker**
